@@ -51,7 +51,7 @@
 
 ---
 
-#### 🛠️: Languages and Tools
+#### 🛠️ Languages and Tools
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@
 
 ---
 
-#### 📊: My GitHub Statistics
+#### 📊 My GitHub Statistics
 
 <p align='center'><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=qaisarrra&show_icons=true&locale=en&layout=compact" alt="qaisarrra" /></p>
 
