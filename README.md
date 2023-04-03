@@ -24,7 +24,7 @@
 </div>
 
 #### :woman_technologist: About Me
-- Currently exploring **Laravel Framework, MongoDB, & .net**
+- Currently exploring **Laravel Framework, MongoDB, Django & .net**
 
 
 ---
